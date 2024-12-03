@@ -2,7 +2,7 @@
 
 Данная программа делает запрос на сайт [wttr.in] и возвращает прогноз погоды в нужном формате и по заданным городам.
 
-[wttr.un]: http://wttr.un
+[wttr.un]: http://wttr.in
 
 ![get_weather_forecast](https://github.com/user-attachments/assets/7d179b1e-a207-42cb-95e1-13630fa22ac1)
 
