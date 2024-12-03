@@ -30,7 +30,7 @@ if __name__ == '__main__':
     for location in locations:
         show_weather_forecast(location)
 ```
-Вставьте код в своей среде разработки (дополнительно понадобится библиотека [requests](https://requests.readthedocs.io/en/latest/user/install/#install), и если вы используете [Replit](https://www.youtube.com/watch?v=mWenakcO230)).
+Вставьте код в своей среде разработки (дополнительно понадобится библиотека [requests](https://requests.readthedocs.io/en/latest/user/install/#install), и оставлю инструкцию если вы используете [Replit](https://www.youtube.com/watch?v=mWenakcO230)).
 Далее запускаете скрипт по кнопке `Run` и вся информация появляется у вас на экране.
 
 ![работа функции](https://github.com/user-attachments/assets/0db5ff53-84ab-4405-a101-3cb06425d5ba)
