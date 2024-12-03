@@ -30,7 +30,10 @@ if __name__ == '__main__':
     for location in locations:
         show_weather_forecast(location)
 ```
-Вставьте код в своей среде разработки (дополнительно понадобится библиотека [requests](https://requests.readthedocs.io/en/latest/user/install/#install).
-Далее запускаете скрипт по кнопке `Play` и вся информация появляется у вас на экране.
+Вставьте код в своей среде разработки (дополнительно понадобится библиотека [requests](https://requests.readthedocs.io/en/latest/user/install/#install)).
+Далее запускаете скрипт по кнопке `Run` и вся информация появляется у вас на экране.
+
+![работа функции](https://github.com/user-attachments/assets/0db5ff53-84ab-4405-a101-3cb06425d5ba)
+
 Можно добавить интересующие вас города в список `locations` и посмотреть на результат.
 
